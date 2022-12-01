@@ -1,2 +1,2 @@
 # git_tutorial
-Just for me trying use git and github
+Just for me, I trying to learn git and github.
